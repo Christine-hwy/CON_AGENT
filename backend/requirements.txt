@@ -1,0 +1,7 @@
+Flask==3.0.3
+flask-cors==4.0.1
+pandas==2.2.2
+pydub==0.25.1
+python-dotenv==1.0.1
+requests==2.32.3
+audioop-lts; python_version >= "3.13"
